@@ -1,0 +1,10 @@
+.conteudo img {
+    height: 300px;
+}
+.conteudo .card {
+    border-radius: 15px;
+}
+.conteudo {
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
